@@ -23,4 +23,4 @@ I also have a full time job as front-end developer at the award winning agency @
 
 ---
 
-[<img src="https://i.imgur.com/34HJ0Cu.png" width="200">](https://youtube.com/astrit) [<img src="https://i.imgur.com/Qt2Ezmo.png" width="200">](https://twitter.com/astritmalsija) [<img src="https://i.imgur.com/vZy4qH6.png" width="200">](https://dev.to/astrit) 
+[<img src="https://i.imgur.com/34HJ0Cu.png" height="40">](https://youtube.com/astrit) [<img src="https://i.imgur.com/Qt2Ezmo.png" height="40">](https://twitter.com/astritmalsija) [<img src="https://i.imgur.com/vZy4qH6.png" height="40">](https://dev.to/astrit) 
