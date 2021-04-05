@@ -7,7 +7,7 @@ I am the creator of the open-source project CSS.GG ( 700 CSS Icons ).
 
 
 🧑&nbsp;&nbsp;&nbsp;Now:  
-Recently I started my YouTube jurney creating 2 videos a month realted to front-end and CSS in general,
+Recently I started my YouTube jurney creating 2 videos a month related to front-end and CSS in general,
 if you like the idea [subscribing](https://youtube.com/astrit) would help me a lot ✌️
 
 I also have a full time job as front-end developer at the award winning agency @sunnyatsea
