@@ -10,7 +10,7 @@ I am the creator of the open-source project CSS.GG ( 700 CSS Icons ).
 Recently I started my YouTube jurney creating 2 videos a month related to front-end and CSS in general,
 if you like the idea [subscribing](https://a.st/yt) would help me a lot ✌️
 
-I also have a full time job as front-end developer at the award winning agency @sunnyatsea
+I also have a full time job as front-end developer at the award winning agency Sunny at Sea
 
 
 💻 &nbsp;&nbsp;&nbsp;Setup:  
