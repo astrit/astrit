@@ -8,7 +8,7 @@ I am the creator of the open-source project CSS.GG ( 700 CSS Icons ).
 
 🧑&nbsp;&nbsp;&nbsp;Now:  
 Recently I started my YouTube jurney creating 2 videos a month related to front-end and CSS in general,
-if you like the idea [subscribing](https://youtube.com/astrit) would help me a lot ✌️
+if you like the idea [subscribing](https://a.st/yt) would help me a lot ✌️
 
 I also have a full time job as front-end developer at the award winning agency @sunnyatsea
 
@@ -21,6 +21,5 @@ I also have a full time job as front-end developer at the award winning agency @
 [MacBook Pro 16"](https://amzn.to/3bfjM55)  
 [Neue Chair](http://bit.ly/2ZlXjOz)  
 
-<img src="https://media4.giphy.com/media/htirNILAPQKKdcJfxY/giphy.gif" width="100%">
 
-[<img src="https://i.imgur.com/34HJ0Cu.png" height="40">](https://youtube.com/astrit) [<img src="https://i.imgur.com/Qt2Ezmo.png" height="40">](https://twitter.com/astritmalsija) [<img src="https://i.imgur.com/vZy4qH6.png" height="40">](https://dev.to/astrit)
+[<img src="https://i.imgur.com/34HJ0Cu.png" height="40">](https://a.st/yt) [<img src="https://i.imgur.com/Qt2Ezmo.png" height="40">](https://twitter.com/astritmalsija) [<img src="https://i.imgur.com/vZy4qH6.png" height="40">](https://dev.to/astrit)
