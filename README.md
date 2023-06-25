@@ -14,19 +14,19 @@ Design × Code ~ SEB™
 スキル × </> {@} ($) [;] /(reg)ex/
 ````
 
-<a href="https://twitter.com/intent/follow?screen_name=astritmalsija">
-  <img
-    src="https://img.shields.io/twitter/follow/astritmalsija.svg?label=Follow%20@astritmalsija"
-    alt="Follow @astritmalsija"
-  />
-</a>
+
 <a href="https://www.youtube.com/c/astrit?sub_confirmation=1">
   <img
     src="https://img.shields.io/youtube/channel/subscribers/UCHcZvp39InNTwh3eJh1C2eg"
     alt="subscribe"
   />
 </a>
-
+<a href="https://twitter.com/intent/follow?screen_name=astritmalsija">
+  <img
+    src="https://img.shields.io/twitter/follow/astritmalsija.svg?label=Follow%20@astritmalsija"
+    alt="Follow @astritmalsija"
+  />
+</a>
 
 <!--
 
